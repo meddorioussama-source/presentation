@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 9c726bcb-ea93-4417-9db3-e27cfb951ea6
+  title: deeplab for ai4mars
+  # description:
+  # keywords: []
+  authors: [oussama]
+  github: https://github.com/meddorioussama-source
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
