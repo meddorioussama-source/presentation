@@ -46,6 +46,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-          execute:
-           execute_notebooks: "off"
-
+          # i added this it not working can you help with it
+          # # i added this it not working can you help with it

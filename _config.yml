@@ -1,0 +1,5 @@
+title: Your Book Title
+author: Your Name
+
+execute:
+  execute_notebooks: "off"
